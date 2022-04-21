@@ -1,5 +1,5 @@
-# RoundedView
-A Simple Example For UIView With Rounded Corners
+# IOS Rounded View
+A Simple Example for UIView With Rounded Corners
 
 ![UIView With Rounded Corners](https://github.com/bilkeonur/RoundedView/blob/main/Screens/image1.png)
 
