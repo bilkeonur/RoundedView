@@ -13,6 +13,7 @@
 		775C27952811324D00690556 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 775C27932811324D00690556 /* Main.storyboard */; };
 		775C27972811324E00690556 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 775C27962811324E00690556 /* Assets.xcassets */; };
 		775C279A2811324E00690556 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 775C27982811324E00690556 /* LaunchScreen.storyboard */; };
+		775C27A22811356100690556 /* RoundedCornerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 775C27A12811356100690556 /* RoundedCornerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		775C27962811324E00690556 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		775C27992811324E00690556 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		775C279B2811324E00690556 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		775C27A12811356100690556 /* RoundedCornerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundedCornerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		775C278C2811324D00690556 /* RoundedView */ = {
 			isa = PBXGroup;
 			children = (
+				775C27A12811356100690556 /* RoundedCornerView.swift */,
 				775C278D2811324D00690556 /* AppDelegate.swift */,
 				775C278F2811324D00690556 /* SceneDelegate.swift */,
 				775C27912811324D00690556 /* ViewController.swift */,
@@ -141,6 +144,7 @@
 				775C27922811324D00690556 /* ViewController.swift in Sources */,
 				775C278E2811324D00690556 /* AppDelegate.swift in Sources */,
 				775C27902811324D00690556 /* SceneDelegate.swift in Sources */,
+				775C27A22811356100690556 /* RoundedCornerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
